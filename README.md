@@ -1,5 +1,5 @@
 # 💫 About Me:
-JAGADISH CHANDIRA BOSE A <br>ASPIRING BACKEND DEVELOPER <br>INTERESTED IN MACHINE LEARNING AND AI INTEGRATIONS <br>willing to collabrate in open source and interested in competitive coding 
+Jagadish Chandira Bose A <br>Aspriring Backend Developer <br>Interested in Machine Learning and AI Integrations <br>willing to collabrate in open source and interested in competitive coding 
 
 
 ## 🌐 Socials:
